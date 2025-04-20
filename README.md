@@ -29,14 +29,12 @@ Simulate a slow system scenario in a Windows 10 virtual machine and optimize per
 
 
 #### Task Manager – Memory Usage Before Optimization  
-![Memory Usage](Insert your GitHub image URL here or upload via repo)
 
 > RAM usage was at ~57% on a 4GB VM. Used Task Manager to analyze which processes were consuming memory and viewed system commit.
 
 ---
 
 #### `msconfig` Boot Settings  
-![Boot Config](Insert your GitHub image URL here or upload via repo)
 
 > Explored advanced boot settings. Only 1 processor was available due to VM limitations.
 
